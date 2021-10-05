@@ -7,6 +7,6 @@
 ![Screenshot_7](https://user-images.githubusercontent.com/85580151/135859004-5024ad05-4f69-4065-85a5-6fb8e95482a0.png)
 
 
-Projeto feito com VS Code utilizando HTML para criação de um e-mail marketing baseado no cliente Banco Toyota.
+Projeto feito com VS Code utilizando HTML e Photoshop para criação de um e-mail marketing baseado no cliente Banco Toyota.
 Foi utilizado o disparador de e-mails Litmus Putsmail.
 
